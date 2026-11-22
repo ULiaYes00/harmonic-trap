@@ -93,7 +93,7 @@ Requires Python 3.9+.
 
 ```bash
 pip install numpy scipy pandas matplotlib numba
-python thermo_mc.py
+python harmonic_trap_monte_carlo.py
 ```
 
 The full run (4 parameter sets) takes about 40 seconds. Settings are constants at the top of the script:
